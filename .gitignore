@@ -1,0 +1,13 @@
+# personal / secret - never commit these
+config.json
+credentials.json
+token.json
+gemini_key.txt
+browser_profile/
+run_out/
+# python
+__pycache__/
+*.pyc
+# downloaded worksheets
+*.docx
+*.pdf
