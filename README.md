@@ -146,6 +146,7 @@ ecurricula-auto/
 | **Gemini 404 / model not found** | Change `GEMINI_MODEL` in `solve_mcqs.py` to a current Flash model from AI Studio. |
 | **Gemini 429** | Free-tier rate limit; the script waits and retries. |
 | `FutureWarning` about Python 3.10 | Harmless; it comes from a Google library. |
+| **The E-curricula website has timeout for submitting the mcqs, if it throws an error for submitting too quickly wait for 7-8 secs and submit |
 
 ---
 
